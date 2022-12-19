@@ -1,5 +1,6 @@
-# BoilerplateAngular
+# Autenticação com AWS Cognito
 
+### Criado com o Boilerplaite da Nat @natalialuizads
 - Angular 14
 - Jest 
 - Angular Testing Library
@@ -8,3 +9,6 @@
 - Eslint
 - Commit Lint
 - Husky
+
+### Exercício do curso AWS Serverless APIs & Apps - A Complete Introduction
+#### Academind by Maximilian Schwarzmüller
